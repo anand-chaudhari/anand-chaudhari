@@ -50,15 +50,6 @@ I enjoy working across the frontend and backend, integrating AI APIs, developing
 - **YouTube Summarizer** – Application that summarizes YouTube video content using AI.
 
 Explore more projects on my [GitHub repositories](https://github.com/anand-chaudhari?tab=repositories).
-
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand-chaudhari&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-chaudhari&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 🤝 Connect With Me
