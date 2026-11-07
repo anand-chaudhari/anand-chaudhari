@@ -16,7 +16,7 @@ I enjoy working across the frontend and backend, integrating AI APIs, developing
 - 💻 Developing full-stack web applications with React, Python, and Firebase.
 - 📊 Exploring AI, Generative AI, Machine Learning, and intelligent automation.
 - ☁️ Learning Docker, AWS, CI/CD, and cloud deployment.
-- 🇯🇵 Exploring software engineering opportunities in Japan.
+- 
 
 ---
 
@@ -26,13 +26,13 @@ I enjoy working across the frontend and backend, integrating AI APIs, developing
 - Python, C, C++, JavaScript, SQL
 
 **Frontend Development**
-- React.js, HTML5, CSS3, Tailwind CSS, Vite
+- React.js, HTML5, CSS3, javascript, Vite
 
 **Backend & Database**
 - Python, FastAPI, Node.js, Firebase, Firestore, MySQL
 
 **AI & Generative AI**
-- LLM APIs, RAG, LangChain concepts, ChromaDB, Groq, NVIDIA NIM, Gemini API, Prompt Engineering
+- LLM APIs, RAG, ChromaDB, Groq, Gemini API, Prompt Engineering
 
 **Cloud & DevOps**
 - AWS (Learning), Docker (Learning), CI/CD (Learning), Firebase Hosting
