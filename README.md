@@ -1,11 +1,6 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Anand%20Chaudhari&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20AI%20%26%20GenAI&descAlignY=58&descSize=18" width="100%" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Anand+%F0%9F%91%8B;MCA+Student+%7C+Full-Stack+Developer;Building+AI-powered+apps+with+Python+%26+React;RAG+%7C+LLM+APIs+%7C+FastAPI+%7C+Firebase;Code+with+curiosity%2C+build+with+purpose+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="./assets/banner.svg" width="100%" alt="Anand Chaudhari - Full-Stack Developer" />
 
 <br/>
 
@@ -67,14 +62,14 @@ I'm an **MCA student** from **Chhatrapati Sambhajinagar, Maharashtra, India**, p
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-FF6446?style=for-the-badge)
 
 **AI & Generative AI**
 
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Architecture-8A2BE2?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-FF9800?style=for-the-badge)
 
@@ -107,16 +102,11 @@ I'm an **MCA student** from **Chhatrapati Sambhajinagar, Maharashtra, India**, p
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=anand-chaudhari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-chaudhari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=anand-chaudhari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anand-chaudhari&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+<img src="https://ghchart.rshah.org/58a6ff/anand-chaudhari" alt="GitHub Contribution Chart" width="95%" />
 
 </div>
 
@@ -126,7 +116,7 @@ I'm an **MCA student** from **Chhatrapati Sambhajinagar, Maharashtra, India**, p
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-anandportfolio.in-0A66C2?style=for-the-badge)](https://anandportfolio.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anandportfolio.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anandportfolio.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anand--chaudhari--ac2004-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-chaudhari-ac2004)
 [![GitHub](https://img.shields.io/badge/GitHub-anand--chaudhari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anand-chaudhari)
 [![Email](https://img.shields.io/badge/Email-anandchaudhri2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandchaudhri2004@gmail.com)
@@ -136,7 +126,5 @@ I'm an **MCA student** from **Chhatrapati Sambhajinagar, Maharashtra, India**, p
 <i>💡 "Code with curiosity, build with purpose, and never stop learning."</i>
 
 ⭐ Feel free to explore my repositories and connect with me!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
